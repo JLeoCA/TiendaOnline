@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\bin\Debug\net8.0\TiendaOnline.exe
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\bin\Debug\net8.0\TiendaOnline.deps.json
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\bin\Debug\net8.0\TiendaOnline.runtimeconfig.json
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\bin\Debug\net8.0\TiendaOnline.dll
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\bin\Debug\net8.0\TiendaOnline.pdb
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.dll
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\refint\TiendaOnline.dll
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.pdb
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\ref\TiendaOnline.dll
