@@ -12,7 +12,7 @@ namespace TiendaOnline
         public string Nombre { get; private set; }
         public string Email { get; private set; }
         public string Metpay { get; private set; }
-        public Carrito Carrito { get; private set; } = new Carrito();
+        public Carrito Carrito { get; set; } = new Carrito();
 
         public Cliente(int idCliente, string nombre, string email, string metpay)
         {

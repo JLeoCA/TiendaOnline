@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +19,16 @@
       "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|c:\\users\\asus\\desktop\\catolica\\quinto_semestre\\progra2\\tiendaonline\\tiendaonline\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE17CB6-C3E6-466E-9E37-70CDDDC66A70}|TiendaOnline.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "venta.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\venta.cs",
               "RelativeDocumentMoniker": "venta.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\venta.cs",
               "RelativeToolTip": "venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:37:23.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "cliente.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\cliente.cs",
               "RelativeDocumentMoniker": "cliente.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\cliente.cs",
               "RelativeToolTip": "cliente.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:34:59.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "carrito.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\carrito.cs",
               "RelativeDocumentMoniker": "carrito.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\carrito.cs",
               "RelativeToolTip": "carrito.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:33:19.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "categoria.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\categoria.cs",
               "RelativeDocumentMoniker": "categoria.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\categoria.cs",
               "RelativeToolTip": "categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:31:39.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "producto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\producto.cs",
               "RelativeDocumentMoniker": "producto.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\producto.cs",
               "RelativeToolTip": "producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:29:03.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "inventario.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\inventario.cs",
               "RelativeDocumentMoniker": "inventario.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\inventario.cs",
               "RelativeToolTip": "inventario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:23:47.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Catolica\\Quinto_semestre\\Progra2\\TiendaOnline\\TiendaOnline\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA1wEIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswGgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T00:49:38.819Z",
               "EditorCaption": ""

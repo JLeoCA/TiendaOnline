@@ -11,7 +11,7 @@ namespace TiendaOnline
         public string Nombre {  get; private set; }
         public int Codigo { get; private set; }
         public decimal Precio { get; private set; }
-        public int Stock { get; private set; }
+        public int Stock { get; set; }
 
         public Producto(string nombre, int codigo, decimal precio, int stock)
         {

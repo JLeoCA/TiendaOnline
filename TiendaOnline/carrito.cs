@@ -8,7 +8,7 @@ namespace TiendaOnline
 {
     public class Carrito
     {
-        private List <Producto> Productos {  get; set; } = new List <Producto> ();
+        public List <Producto> Productos {  get; set; } = new List <Producto> ();
 
         public void AddItem(Producto producto) 
         {

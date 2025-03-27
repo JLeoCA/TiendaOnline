@@ -12,3 +12,4 @@ C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline
 C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.pdb
 C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\ref\TiendaOnline.dll
+C:\Users\ASUS\Desktop\Catolica\Quinto_semestre\Progra2\TiendaOnline\TiendaOnline\obj\Debug\net8.0\TiendaOnline.sourcelink.json
